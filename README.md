@@ -23,9 +23,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.onlinehacking.in/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-encode-decode_shell-green.svg"></a>
-<a href="https://www.onlinehacking.in/"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green.svg?style=flat-square"></a>
-<a href="https://www.onlinehacking.in/"><img title="Maintainence" src="https://img.shields.io/badge/Admin-SUMAN-green.svg"></a>
+[![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </p>
 
 <p align="center">
@@ -66,6 +64,8 @@ To encode or decode standard input/output or any file content, Linux uses base64
 
 
 ## ✅ INSTALLATION [ Termux ] :
+
+<a href="https://t.me/onlinehacking"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 ```
 pkg update && pkg upgrade -y
 
@@ -90,6 +90,9 @@ python2 enc-dec.py
 
 
 ## ✅ INSTALLATION [ Linux ] :
+
+<a href="https://t.me/onlinehacking"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
+
 ```
 sudo apt update -y
 
@@ -112,6 +115,23 @@ python2 enc-dec.py
 
 ## ✅ INSTALLATION [ Windows ] :
 
+<a href="https://t.me/onlinehacking"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+
+[Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
+
+```
+git clone https://github.com/OnlineHacKing/encode-decode_shell.git
+
+cd encode-decode_shell
+
+python2 enc-dec.py
+```
+
+<a href="https://t.me/onlinehacking"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+#####Watch Video Tutorial : 
+<a href=""><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="https://t.me/onlinehacking"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
 
 
 Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
