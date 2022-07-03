@@ -12,7 +12,7 @@ pkg install git
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/slughter/enc-dec-shell
+git clone https://github.com/OnlineHacKing/encode-decode_shell
 
 cd
 
