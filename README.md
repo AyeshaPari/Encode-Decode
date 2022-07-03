@@ -112,8 +112,11 @@ python2 enc-dec.py
 
 ## ✅ INSTALLATION [ Windows ] :
 
-# <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/=https://github.com/OnlineHacKing/FreeFire-Phishing&tutorial=README.md)
 
+
+Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
+
+Then choose option 1 for encrypt or choose option to decrypt
 
 
 ## 👨🏻‍💻 CONNECT WITH US :
@@ -134,31 +137,3 @@ python2 enc-dec.py
 
 
                      Inspired By github.com/OnlineHacking
-
-
-
-
-
-
-# enc-dec-shell
-You can encode and decode any shell with that command
-Execute that command 
-
-
-
-
-
-git clone https://github.com/OnlineHacKing/encode-decode_shell
-
-cd
-
-cd enc-dec-shell
-
-ls
-
-python2 bash.py
-
-
-Store shell file in data/user/0/com.termux/files/home/enc-dec-shell
-
-Then choose option 1 for encrypt or choose option to decrypt
