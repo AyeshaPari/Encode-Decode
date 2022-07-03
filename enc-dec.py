@@ -1,4 +1,4 @@
-# author : @modxashis
+# author : @OnlineHacking
 # -*- coding: utf-8 -*-
 
 import os
@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}YT : MODXPRO OFFICIAL
-{}   FqM            MMM {}TG{}: {}TG : @MODXASHIS
+   HZM            MMMM    {}Coded by {}: {} : ONLINE HACKING
+{}   FqM            MMM {}TG{}: {}TG : SUMAN
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
