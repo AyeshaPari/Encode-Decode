@@ -22,9 +22,9 @@
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
 </p>
 
-<p align="center">
+
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-</p>
+
 
 <p align="center">
 
