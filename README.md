@@ -81,7 +81,7 @@ npm install -g bash-obfuscate
 
 git clone https://github.com/OnlineHacKing/Encode-Decode.git
 
-cd encode-decode_shell
+cd Encode-Decode
 
 chmod +x enc-dec.py
 
@@ -106,7 +106,7 @@ npm install -g bash-obfuscate
 
 git clone https://github.com/OnlineHacKing/Encode-Decode.git
 
-cd encode-decode_shell
+cd Encode-Decode
 
 chmod +x enc-dec.py
 
