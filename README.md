@@ -79,7 +79,7 @@ pkg install git -y
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/OnlineHacKing/encode-decode_shell.git
+git clone https://github.com/OnlineHacKing/Encode-Decode.git
 
 cd encode-decode_shell
 
@@ -104,7 +104,7 @@ sudo apt install git wget -y
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/OnlineHacKing/encode-decode_shell.git
+git clone https://github.com/OnlineHacKing/Encode-Decode.git
 
 cd encode-decode_shell
 
